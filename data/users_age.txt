@@ -1,0 +1,8 @@
+id,login,name,age
+1,BarackObama,Barack Obama,60
+2,ladygaga,Goddess of Love,55
+3,jeresig,John Resig,34
+4,justinbieber,Justin Bieber,32
+6,matei_zaharia,Matei Zaharia,45
+7,odersky,Martin Odersky,56
+8,anonsys,Anonymous,70

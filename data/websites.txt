@@ -1,0 +1,8 @@
+id,url,name
+1,https://facebook.com,Facebook
+2,https://google.com,Google
+3,https://www.bbc.com,BBC
+4,https://www.amazon.com,Amazon
+5,https://www.ibm.com,IBM
+6,https://www.oracle.com,Oracle
+7,https://www.apple.com,Apple
