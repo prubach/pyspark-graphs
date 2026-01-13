@@ -6,3 +6,4 @@ pyvis
 pandas
 matplotlib
 scipy
+scikit-learn
